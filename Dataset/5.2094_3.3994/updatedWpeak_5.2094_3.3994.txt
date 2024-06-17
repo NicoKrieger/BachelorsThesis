@@ -1,0 +1,8 @@
+Flux ratio 3.3
+
+Mean slope in the three highest nufnu fluxes: 0.42 +/- 0.38
+Mean slope in the four  lowest  nufnu fluxes: 0.29 +/- 0.13
+Warning: very small or no spectral slope variability. That is likely because the IR flux is dominated by the host galaxy or IR torus. In case your SED does not show any of these features, you may consider the following estimate:
+Mean slope              : 0.32
+Log(Nu_peak)            : 14.8 +/- 0.4
+Log(NuFnu_peak)         : -12.40 Expected range: from -12.64 to -12.13
