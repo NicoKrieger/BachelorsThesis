@@ -1,0 +1,16 @@
+ Enter file name  Enter output directory  Enter delta-t for rebinning    
+ ------------------------------------------ 
+Minimum flux            :  2.34E-12
+Maximum flux            :  3.30E-12
+Average flux            :  2.69E-12
+Median  flux            :  2.65E-12
+Reduced Chisquared      :     213.05
+Max/Min flux ratio      :  1.41    +/-  1.09E-02
+Variability amplitude   :  9.68E-13
+Fractional variability  :  0.09   +/-  0.001
+Mean absolute deviation :  1.69E-13
+ ------------------------------------------ 
+Overall mean slope      : -0.25   +/-  0.01
+Nu_peak from W-Peak     :  13.0   +/-  0.4
+Nu_Fnu_peak from W-Peak : -11.4 expected range: from -11.5 to -11.3
+Nu_peak from BLAST      :	13.0 (+/- 0.4)
