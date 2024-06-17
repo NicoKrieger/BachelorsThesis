@@ -1,0 +1,11 @@
+Flux ratio 1.7
+
+Mean slope in the three highest nufnu fluxes: 0.70 +/- 0.41
+Mean slope in the four  lowest  nufnu fluxes: 0.76 +/- 0.21
+Warning: very small or no spectral slope variability. That is likely because the IR flux is dominated by the host galaxy or IR torus. In case your SED does not show any of these features, you may consider the following estimate:
+Log(Nu_peak)            : 16.3 +/- 0.4
+Log(NuFnu_peak)         : -11.91 Expected range: from -12.00 to -11.76
+Warning: possible confusing source at distance of 5 arcseconds, vmag=100.0
+Warning: possible confusing source at distance of 9 arcseconds, vmag=100.0
+W-peak estimation may be unreliable
+There are no confusing sources at this postition. The closest object is located at 14 arcseconds

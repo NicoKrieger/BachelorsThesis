@@ -1,0 +1,13 @@
+ Enter file name  Enter output directory  Enter delta-t for rebinning    
+ ------------------------------------------ 
+Minimum flux            :  8.69E-14
+Maximum flux            :  1.35E-13
+Average flux            :  1.11E-13
+Median  flux            :  1.09E-13
+Reduced Chisquared      :       1.19
+Max/Min flux ratio      :  1.56    +/-  0.30    
+Variability amplitude   :  4.44E-14
+Fractional variability  :  0.17   +/-  0.029
+ Warning: Mean flux too close to background level for a reliable IR slope estimation
+ ------------------------------------------ 
+Nu_peak from BLAST      :	15.6 (+/- 0.4)
