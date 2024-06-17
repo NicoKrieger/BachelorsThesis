@@ -1,0 +1,9 @@
+Flux ratio 1.8
+
+Mean slope in the three highest nufnu fluxes: 0.85 +/- 0.06
+Mean slope in the four  lowest  nufnu fluxes: 1.07 +/- 0.20
+Log(Nu_peak)            : 16.9 +/- 0.4
+Log(NuFnu_peak)         : -11.87 Expected range: from -12.00 to -11.76
+Warning: possible confusing source at distance of 9 arcseconds, vmag=100.0
+W-peak estimation may be unreliable
+There are no confusing sources at this postition. The closest object is located at 12 arcseconds

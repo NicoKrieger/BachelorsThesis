@@ -1,0 +1,18 @@
+ Enter file name  Enter output directory  Enter delta-t for rebinning    
+ ------------------------------------------ 
+Minimum flux            :  2.06E-13
+Maximum flux            :  4.30E-13
+Average flux            :  2.88E-13
+Median  flux            :  2.84E-13
+Reduced Chisquared      :      17.48
+Max/Min flux ratio      :  2.09    +/-  0.19    
+Variability amplitude   :  2.23E-13
+Fractional variability  :  0.21   +/-  0.010
+Mean absolute deviation :  4.01E-14
+ ------------------------------------------ 
+Overall mean slope      :  0.52   +/-  0.11
+ Warning: moderate IR variability, nu_peak may be unreliable.
+ Check optical image/spectrum for the presence of a galaxy or blue bump
+Nu_peak from W-Peak     :  15.5   +/-  0.4
+Nu_Fnu_peak from W-Peak : -12.2 expected range: from -12.3 to > -12.0
+Nu_peak from BLAST      :	16.4 (+/- 0.4)
