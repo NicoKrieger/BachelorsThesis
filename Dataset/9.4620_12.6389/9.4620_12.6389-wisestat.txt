@@ -1,0 +1,17 @@
+ Enter file name  Enter output directory  Enter delta-t for rebinning    
+ ------------------------------------------ 
+Minimum flux            :  1.16E-12
+Maximum flux            :  3.09E-12
+Average flux            :  1.80E-12
+Median  flux            :  1.63E-12
+Reduced Chisquared      :    1063.44
+Max/Min flux ratio      :  2.65    +/-  4.48E-02
+Variability amplitude   :  1.93E-12
+Fractional variability  :  0.34   +/-  0.002
+Mean absolute deviation :  4.64E-13
+ ------------------------------------------ 
+Overall mean slope      :  1.25   +/-  0.03
+ Warning: WISE flux may be contaminated by the host galaxy 
+          or by a highly redshifted Blue Bump
+Host corrected W-Peak   :  14.9   +/-  0.4
+Nu_peak from BLAST      :	15.0 (+/- 0.4)
