@@ -1,0 +1,6 @@
+Flux ratio 2.0
+
+Mean slope in the three highest nufnu fluxes: 0.34 +/- 0.01
+Mean slope in the four  lowest  nufnu fluxes: 0.45 +/- 0.26
+Log(Nu_peak)            : 14.9 +/- 0.4
+Log(NuFnu_peak)         : -11.93 Expected range: from -12.06 to -11.76
