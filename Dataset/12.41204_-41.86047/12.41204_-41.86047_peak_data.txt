@@ -1,0 +1,4 @@
+NuPeak from Blast: 16.4 +/- 0.5
+Wpeak warning: Not enough flux variability. Low flux variability and large IR spectral slope. That is likely because the IR flux is dominated by the host galaxy or IR torus. 
+Source contamination for Wpeak: Possible confusing source at distance of 7 arcseconds, vmag=100.0
+Flux ratio from variability in IR: 1.2
