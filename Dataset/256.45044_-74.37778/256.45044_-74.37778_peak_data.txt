@@ -1,0 +1,3 @@
+NuPeak from Blast: 16.6 +/- 0.5
+Wpeak warning: Not enough IR data measurements to provide a Wpeak prediction.
+Source contamination for Wpeak: There are no confusing sources at this position. The closest object is located at 12 arcseconds

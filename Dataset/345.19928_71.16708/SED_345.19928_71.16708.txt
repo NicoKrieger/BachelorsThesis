@@ -1,0 +1,24 @@
+   1  matched source  345.19928   71.16708  99  0.000
+ Frequency     nufnu     nufnu unc.  nufnu unc. start time   end time   Flag  Catalog          Reference
+    Hz       erg/cm2/s     upper       lower        MJD         MJD   
+---------------------------------------------------------------------------------------------------------------------------
+ 8.400E+09   1.596E-16   0.000E+00   0.000E+00  55000.0000  55000.0000   Det  CRATES           Healey et al. 2007, ApJS, 171, 61                                                                                                                                                                       
+ 4.800E+09   4.896E-15   5.328E-15   4.464E-15  55000.0000  55000.0000   Det  GB6              Gregory et al. 1996, ApJS, 103, 427                                                                                                                                                                     
+ 4.800E+09   4.752E-15   5.184E-15   4.320E-15  55000.0000  55000.0000   Det  GB87             Gregory et al. 1992, VizieR, VIII/14/j2000                                                                                                                                                              
+ 2.418E+23   3.151E-13   3.737E-13   2.566E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.813E+22   4.314E-17   5.810E-12   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+22   1.273E-17   5.628E-13   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+23   1.031E-18   1.924E-13   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+23   3.679E-13   4.626E-13   2.786E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+24   4.519E-13   5.564E-13   3.568E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+24   2.789E-13   4.152E-13   1.699E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+25   2.020E-13   3.904E-13   8.733E-14  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+26   1.492E-13   1.512E-12   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.850E+09   4.947E-15   5.917E-15   3.977E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.850E+09   4.802E-15   5.772E-15   3.832E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.850E+09   4.608E-15   5.529E-15   3.686E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 3.250E+08   1.918E-16   2.308E-16   1.528E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.400E+09   1.154E-15   1.378E-15   9.296E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+09   7.484E-15   8.996E-15   5.972E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.500E+08   7.665E-17   9.165E-17   6.165E-17  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+09   7.484E-15   8.996E-15   5.972E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17

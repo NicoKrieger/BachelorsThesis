@@ -1,0 +1,38 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 8.870e+08, 6.679e-16, 5.145e-17,  55000.0000,  55000.0000,  ,RACS    ,  Hale et al. 2021  PASA  38  e058 
+ 8.430e+08, 4.746e-16, 1.690e-17,  55000.0000,  55000.0000,  ,SUMSS    ,  Manch et al. 2003  MNRAS  342  1117 
+ 5.000e+09, 8.900e-15, 4.500e-16,  55000.0000,  55000.0000,  ,AT20G    ,  Murphy et al. 2010  MNRAS  402  2403 
+ 8.000e+09, 1.480e-14, 7.200e-16,  55000.0000,  55000.0000,  ,AT20G    ,  Murphy et al. 2010  MNRAS  402  2403 
+ 2.000e+10, 3.780e-14, 2.000e-15,  55000.0000,  55000.0000,  ,AT20G    ,  Murphy et al. 2010  MNRAS  402  2403 
+ 4.800e+09, 4.032e-15, 3.360e-16,  55000.0000,  55000.0000,  ,ATPMN    ,  McConnell et al. 2012  MNRAS  422  1527 
+ 8.600e+09, 1.221e-14, 1.030e-15,  55000.0000,  55000.0000,  ,ATPMN    ,  McConnell et al. 2012  MNRAS  422  1527 
+ 8.400e+09, 1.307e-14, 0.000e+00,  55000.0000,  55000.0000,  ,CRATES    ,  Healey et al. 2007  ApJS  171  61 
+ 4.800e+09, 7.680e-15, 5.280e-16,  55000.0000,  55000.0000,  ,PMN    ,  Griffith et al. 1993-1996  VizieR  VIII/38 
+ 9.744e+10, 7.893e-14, 7.795e-15,  56911.0000,  56911.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 8.817e+13, 1.241e-13, 1.550e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 6.517e+13, 1.412e-13, 2.400e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 4.455e+14, 1.007e-13, 0.000e+00,  55000.0000,  55000.0000,  ,GAIA    ,  The Gaia Collaboration 2016  A&A  595  A2 
+ 4.850e+09, 7.954e-15, 1.600e-15,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 2.000e+08, 1.346e-16, 2.600e-17,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 4.800e+09, 4.032e-15, 8.160e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.400e+09, 1.193e-14, 2.352e-15,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.400e+09, 1.310e-14, 2.605e-15,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.400e+07, 3.259e-17, 6.090e-18,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 9.200e+07, 5.482e-18, 6.887e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 9.900e+07, 5.766e-17, -4.701e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.070e+08, 4.902e-17, 5.437e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.150e+08, 6.755e-17, 4.893e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.220e+08, 6.309e-17, 4.489e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.300e+08, 1.951e-18, 4.231e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.430e+08, 3.546e-17, 4.295e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.510e+08, 8.304e-17, 4.165e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.580e+08, 1.422e-16, 3.935e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.660e+08, 1.728e-16, 4.050e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.740e+08, 2.021e-16, 3.975e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.810e+08, 1.176e-16, 3.814e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.890e+08, 3.552e-17, 4.025e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 1.970e+08, 7.603e-17, 4.138e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 2.040e+08, 1.374e-16, 3.385e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 2.120e+08, 9.197e-17, 3.564e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 2.200e+08, 2.057e-16, 3.565e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 
+ 2.270e+08, 1.944e-16, 3.900e-17,  55000.0000,  55000.0000,  ,GLEAMV2    ,  Hurley-Walker N. et al.  2017  MNRAS  464  1146. 

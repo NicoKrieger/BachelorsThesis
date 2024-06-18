@@ -1,0 +1,30 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 9.884e-16, 3.650e-17,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 8.870e+08, 9.588e-16, 7.620e-17,  55000.0000,  55000.0000,  ,RACS    ,  Hale et al. 2021  PASA  38  e058 
+ 8.870e+08, 9.588e-16, 7.620e-17,  55000.0000,  55000.0000,  ,RACS    ,  Hale et al. 2021  PASA  38  e058 
+ 3.000e+09, 3.298e-16, 2.970e-17,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 3.000e+09, 1.459e-15, 3.250e-17,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 2.418e+17, 2.144e-14, 9.480e-15,  57243.1016,  58477.1016,  ,1OUSX    ,  Giommi et al. in preparation 
+ 3.627e+17, 1.954e-14, 9.000e-15,  57243.1016,  58477.1016,  ,1OUSX    ,  Giommi et al. in preparation 
+ 7.253e+17, 2.689e-14, 7.310e-15,  57243.1016,  58477.1016,  ,1OUSX    ,  Giommi et al. in preparation 
+ 1.088e+18, 2.707e-14, 1.463e-14,  57243.1016,  58477.1016,  ,1OUSX    ,  Giommi et al. in preparation 
+ 8.400e+09, 5.519e-15, 0.000e+00,  55000.0000,  55000.0000,  ,CRATES    ,  Healey et al. 2007  ApJS  171  61 
+ 4.800e+09, 4.944e-15, 6.240e-16,  55000.0000,  55000.0000,  ,PMN    ,  Griffith et al. 1993-1996  VizieR  VIII/38 
+ 2.418e+17, 3.524e-14, 2.022e-14,  57971.8984,  57973.3984,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 1.209e+17, 4.229e-14, 2.182e-14,  57971.8984,  57973.3984,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 3.627e+17, 2.819e-14, 1.861e-14,  57971.8984,  57973.3984,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 7.253e+17, 3.890e-14, 1.436e-14,  57971.8984,  57973.3984,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 2.418e+23, 4.970e-13, 8.505e-14,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.813e+22, 5.132e-12, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+22, 1.024e-12, 4.268e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+23, 4.560e-13, 1.384e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+23, 3.374e-13, 9.005e-14,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+24, 2.464e-13, 8.075e-14,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+24, 4.827e-13, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+25, 5.969e-13, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+26, 9.675e-13, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.850e+09, 4.316e-15, 8.725e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.400e+09, 9.884e-16, 1.958e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.500e+08, 3.405e-16, 6.750e-17,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 2.000e+08, 4.720e-16, 9.400e-17,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.400e+09, 5.519e-15, 1.092e-15,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 

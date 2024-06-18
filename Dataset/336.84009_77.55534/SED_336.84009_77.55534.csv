@@ -1,0 +1,19 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 1.855e-15, 5.600e-17,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 3.000e+09, 2.738e-15, 9.500e-18,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 1.500e+08, 9.660e-17, 1.098e-17,  55000.0000,  55000.0000,  ,TGSS150    ,  Intema et al. 2017  A&A  598  A781 
+ 1.400e+09, 2.030e-15, 0.000e+00,  55000.0000,  55000.0000,  ,NORTH20    ,  White and Becker  1992  ApJS  79  331 
+ 8.817e+13, 4.575e-13, 2.450e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 6.517e+13, 5.792e-13, 3.600e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 4.455e+14, 2.039e-13, 0.000e+00,  55000.0000,  55000.0000,  ,GAIA    ,  The Gaia Collaboration 2016  A&A  595  A2 
+ 6.233e+14, 2.247e-13, 1.050e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 4.859e+14, 2.756e-13, 1.035e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.987e+14, 3.101e-13, 4.050e-15,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.462e+14, 2.996e-13, 6.050e-15,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.116e+14, 3.056e-13, 1.895e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.250e+08, 3.673e-16, 7.475e-17,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.400e+09, 1.848e-15, 3.640e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.400e+09, 2.030e-15, 4.060e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.500e+08, 1.047e-16, 2.100e-17,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 4.850e+09, 4.021e-15, 8.245e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.400e+09, 4.931e-15, 1.008e-15,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 

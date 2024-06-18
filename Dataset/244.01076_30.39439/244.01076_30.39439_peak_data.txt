@@ -1,0 +1,4 @@
+NuPeak from Blast: 13.5 +/- 1.1
+Wpeak warning: Not enough flux variability. Flux too close to background. 
+Source contamination for Wpeak: There are no confusing sources at this position. The closest object is located at 12 arcseconds
+Flux ratio from variability in IR: 1.2

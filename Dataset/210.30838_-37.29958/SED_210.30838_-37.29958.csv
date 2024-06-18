@@ -1,0 +1,25 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 1.889e-15, 6.450e-17,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 8.870e+08, 1.665e-15, 1.215e-16,  55000.0000,  55000.0000,  ,RACS    ,  Hale et al. 2021  PASA  38  e058 
+ 8.430e+08, 1.744e-15, 5.400e-17,  55000.0000,  55000.0000,  ,SUMSS    ,  Manch et al. 2003  MNRAS  342  1117 
+ 1.500e+08, 5.340e-16, 5.355e-17,  55000.0000,  55000.0000,  ,TGSS150    ,  Intema et al. 2017  A&A  598  A781 
+ 1.209e+25, 2.335e-13, 9.175e-14,  55000.0000,  55000.0000,  ,3FHL    ,  The Fermi-LAT Collaboration 2017  ApJS  323  18 
+ 3.627e+24, 4.844e-13, 2.592e-13,  55000.0000,  55000.0000,  ,3FHL    ,  The Fermi-LAT Collaboration 2017  ApJS  323  18 
+ 8.462e+24, 4.668e-13, 2.763e-13,  55000.0000,  55000.0000,  ,3FHL    ,  The Fermi-LAT Collaboration 2017  ApJS  323  18 
+ 2.418e+25, 1.508e-12, 0.000e+00,  55000.0000,  55000.0000,UL,3FHL     ,  The Fermi-LAT Collaboration 2017  ApJS  323  18 
+ 7.253e+25, 4.369e-12, 0.000e+00,  55000.0000,  55000.0000,UL,3FHL     ,  The Fermi-LAT Collaboration 2017  ApJS  323  18 
+ 2.418e+26, 1.460e-11, 0.000e+00,  55000.0000,  55000.0000,UL,3FHL     ,  The Fermi-LAT Collaboration 2017  ApJS  323  18 
+ 2.418e+23, 4.415e-13, 6.955e-14,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.813e+22, 8.854e-12, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+22, 2.396e-12, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+23, 3.910e-13, 2.033e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+23, 3.277e-13, 1.092e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+24, 5.478e-13, 1.267e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+24, 6.076e-13, 1.960e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+25, 6.228e-13, 3.121e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+26, 1.682e-12, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.850e+09, 4.074e-15, 8.245e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.430e+08, 1.745e-15, 3.460e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.400e+09, 1.890e-15, 3.780e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.500e+08, 5.355e-16, 1.065e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 2.307e+09, 2.515e-15, 5.075e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 

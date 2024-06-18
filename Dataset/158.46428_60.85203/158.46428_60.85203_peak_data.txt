@@ -1,0 +1,5 @@
+NuPeak from Blast: 12.8 +/- 0.3
+Flux ratio from variability in IR: 26.4
+Used slope for Wpeak predictions: -0.38
+NuPeak from Wpeak: 12.8 +/- 0.4
+NuFnuPeak from Wpeak: -11.11 Expected range: from -12.05 to -10.62

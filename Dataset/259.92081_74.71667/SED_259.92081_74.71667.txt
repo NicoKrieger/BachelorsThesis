@@ -1,0 +1,6 @@
+   1  matched source  259.92081   74.71667  99  0.000
+ Frequency     nufnu     nufnu unc.  nufnu unc. start time   end time   Flag  Catalog          Reference
+    Hz       erg/cm2/s     upper       lower        MJD         MJD   
+---------------------------------------------------------------------------------------------------------------------------
+ 1.400E+09   4.900E-17   5.460E-17   4.340E-17  55000.0000  55000.0000   Det  NVSS             Condon et al. 1998, AJ, 115, 1693                                                                                                                                                                       
+ 2.418E+17   2.354E-13   2.553E-13   2.155E-13  55000.0000  55000.0000   Det  WGACAT           White et al. 2000, VizieR, IX/31/wgacat                                                                                                                                                                 

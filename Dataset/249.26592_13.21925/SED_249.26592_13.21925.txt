@@ -1,0 +1,54 @@
+   1  matched source  249.26592   13.21925  99  *****
+ Frequency     nufnu     nufnu unc.  nufnu unc. start time   end time   Flag  Catalog          Reference
+    Hz       erg/cm2/s     upper       lower        MJD         MJD   
+---------------------------------------------------------------------------------------------------------------------------
+ 1.400E+09   2.091E-15   2.093E-15   2.089E-15  55000.0000  55000.0000   Det  FIRST            White et al. 1997, ApJ, 475 479                                                                                                                                                                         
+ 1.400E+09   1.771E-15   1.824E-15   1.718E-15  55000.0000  55000.0000   Det  NVSS             Condon et al. 1998, AJ, 115, 1693                                                                                                                                                                       
+ 8.870E+08   1.612E-15   1.729E-15   1.495E-15  55000.0000  55000.0000   Det  RACS             Hale et al. 2021, PASA, 38, e058                                                                                                                                                                        
+ 3.000E+09   2.168E-15   2.175E-15   2.160E-15  55000.0000  55000.0000   Det  VLASSQL          Gordon et al. 2021, ApJS, 255, 30                                                                                                                                                                       
+ 1.500E+08   2.325E-16   2.568E-16   2.082E-16  55000.0000  55000.0000   Det  TGSS150          Intema et al. 2017, A&A, 598, A781                                                                                                                                                                      
+ 4.800E+09   2.400E-15   2.688E-15   2.112E-15  55000.0000  55000.0000   Det  GB6              Gregory et al. 1996, ApJS, 103, 427                                                                                                                                                                     
+ 4.800E+09   2.640E-15   3.120E-15   2.160E-15  55000.0000  55000.0000   Det  GB87             Gregory et al. 1992, VizieR, VIII/14/j2000                                                                                                                                                              
+ 4.850E+09   2.570E-15   0.000E+00   0.000E+00  55000.0000  55000.0000   Det  NORTH20          White and Becker, 1992, ApJS, 79, 331                                                                                                                                                                   
+ 1.400E+09   2.926E-15   0.000E+00   0.000E+00  55000.0000  55000.0000   Det  NORTH20          White and Becker, 1992, ApJS, 79, 331                                                                                                                                                                   
+ 3.650E+08   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   NORTH20          White and Becker, 1992, ApJS, 79, 331                                                                                                                                                                   
+ 2.418E+23   4.091E-13   4.825E-13   3.357E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.813E+22   9.052E-15   9.533E-12   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+22   7.427E-13   1.824E-12   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+23   4.392E-13   6.047E-13   2.790E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+23   2.791E-13   3.759E-13   1.890E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+24   2.707E-13   3.631E-13   1.898E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+24   1.060E-13   2.194E-13   2.782E-14  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+25   1.149E-13   3.027E-13   1.533E-14  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+26   5.321E-17   1.049E-12   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+24   1.060E-13   2.194E-13   2.782E-14  55000.0000  55000.0000   Det  DEBL        EBL-corrected flux
+ 1.451E+25   2.093E-13   5.515E-13   2.792E-14  55000.0000  55000.0000   Det  DEBL        EBL-corrected flux
+ 0.000E+00   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   DEBL        EBL-corrected flux
+ 0.000E+00   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   DEBL        EBL-corrected flux
+ 0.000E+00   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   DEBL        EBL-corrected flux
+ 4.850E+09   2.425E-15   2.910E-15   1.940E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.850E+09   3.065E-15   3.696E-15   2.435E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.850E+09   4.462E-15   5.335E-15   3.589E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.400E+09   1.764E-15   2.114E-15   1.414E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.500E+08   2.610E-16   3.135E-16   2.085E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.000E+08   3.120E-16   3.960E-16   2.280E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.400E+09   2.086E-15   2.506E-15   1.666E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+07   2.529E-16   3.844E-16   1.215E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 9.200E+07   5.484E-16   6.756E-16   4.213E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 9.900E+07   3.484E-16   4.705E-16   2.262E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.070E+08   5.874E-17   1.634E-16   -4.591E-17  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.150E+08   1.325E-16   2.299E-16   3.505E-17  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.220E+08   3.301E-16   4.166E-16   2.436E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.300E+08   3.537E-16   4.377E-16   2.697E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.430E+08   3.003E-17   1.158E-16   -5.569E-17  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.510E+08   2.280E-16   3.013E-16   1.547E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.580E+08   3.939E-16   4.677E-16   3.201E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.660E+08   3.824E-16   4.549E-16   3.098E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.740E+08   2.821E-16   3.719E-16   1.923E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.810E+08   4.018E-16   4.991E-16   3.044E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.890E+08   1.534E-16   2.638E-16   4.311E-17  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.970E+08   4.662E-16   5.899E-16   3.425E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.040E+08   4.731E-16   6.220E-16   3.242E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.120E+08   2.190E-16   3.652E-16   7.280E-17  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.200E+08   5.444E-16   7.212E-16   3.676E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.270E+08   -1.572E-16   7.361E-17   -3.880E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.

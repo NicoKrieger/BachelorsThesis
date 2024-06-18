@@ -1,0 +1,22 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 3.990e-17, 2.100e-18,  55000.0000,  55000.0000,  ,FIRST    ,  White et al. 1997  ApJ  475 479 
+ 1.400e+09, 4.200e-17, 5.600e-18,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 8.870e+08, 2.838e-17, 1.065e-17,  55000.0000,  55000.0000,  ,RACS    ,  Hale et al. 2021  PASA  38  e058 
+ 3.000e+09, 5.796e-17, 7.950e-18,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 3.000e+09, 5.688e-17, 7.890e-18,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 2.418e+17, 1.015e-12, 1.679e-13,  55000.0000,  55000.0000,  ,RASS    ,  Boller et al. 2016  A&A  103  1 
+ 8.817e+13, 1.581e-13, 2.700e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 6.517e+13, 7.032e-14, 3.660e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 4.455e+14, 1.465e-13, 0.000e+00,  55000.0000,  55000.0000,  ,GAIA    ,  The Gaia Collaboration 2016  A&A  595  A2 
+ 6.233e+14, 2.591e-13, 1.115e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 4.859e+14, 1.734e-13, 1.900e-15,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.987e+14, 2.783e-13, 7.100e-15,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.462e+14, 2.781e-13, 1.535e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.116e+14, 2.933e-13, 1.115e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 8.402e+14, 4.951e-13, 1.370e-14,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 6.443e+14, 5.179e-13, 5.750e-15,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 4.876e+14, 5.279e-13, 5.350e-15,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 4.014e+14, 4.756e-13, 6.600e-15,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 3.382e+14, 4.966e-13, 1.735e-14,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 1.948e+15, 1.733e-13, 7.970e-14,  55000.0000,  55000.0000,  ,GALEX    ,  Morrissey et al. 2007  ApJS  173  682 
+ 1.295e+15, 1.453e-13, 3.130e-14,  55000.0000,  55000.0000,  ,GALEX    ,  Morrissey et al. 2007  ApJS  173  682 

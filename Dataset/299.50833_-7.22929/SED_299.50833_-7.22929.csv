@@ -1,0 +1,40 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 1.848e-16, 8.400e-18,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 8.870e+08, 1.712e-16, 1.770e-17,  55000.0000,  55000.0000,  ,RACS    ,  Hale et al. 2021  PASA  38  e058 
+ 3.000e+09, 4.915e-16, 9.900e-18,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 2.418e+17, 7.397e-14, 2.980e-14,  57241.8984,  57362.5000,  ,1OUSX    ,  Giommi et al. in preparation 
+ 3.627e+17, 6.394e-14, 2.632e-14,  57241.8984,  57362.5000,  ,1OUSX    ,  Giommi et al. in preparation 
+ 7.253e+17, 7.829e-14, 2.049e-14,  57241.8984,  57362.5000,  ,1OUSX    ,  Giommi et al. in preparation 
+ 1.088e+18, 2.396e-13, 0.000e+00,  57241.8984,  57362.5000,UL,1OUSX     ,  Giommi et al. in preparation 
+ 7.253e+17, 8.256e-14, 2.376e-14,  55000.0000,  55000.0000,  ,2SXPS    ,  Evans et al. 2020  ApJS  247  54 
+ 1.209e+17, 8.652e-14, 3.968e-14,  55000.0000,  55000.0000,  ,2SXPS    ,  Evans et al. 2020  ApJS  247  54 
+ 3.627e+17, 5.884e-14, 2.839e-14,  55000.0000,  55000.0000,  ,2SXPS    ,  Evans et al. 2020  ApJS  247  54 
+ 1.088e+18, 7.534e-14, 4.435e-14,  55000.0000,  55000.0000,  ,2SXPS    ,  Evans et al. 2020  ApJS  247  54 
+ 8.817e+13, 5.354e-13, 3.250e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 6.517e+13, 4.144e-13, 4.350e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 4.455e+14, 6.163e-13, 0.000e+00,  55000.0000,  55000.0000,  ,GAIA    ,  The Gaia Collaboration 2016  A&A  595  A2 
+ 6.233e+14, 6.739e-13, 5.815e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 4.859e+14, 7.551e-13, 1.980e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.987e+14, 8.541e-13, 6.900e-15,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.462e+14, 7.671e-13, 1.385e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.116e+14, 7.955e-13, 2.910e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 1.948e+15, 2.958e-13, 8.945e-14,  55000.0000,  55000.0000,  ,GALEX    ,  Morrissey et al. 2007  ApJS  173  682 
+ 2.418e+17, 9.691e-14, 5.610e-14,  57351.8008,  57352.1016,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 1.209e+17, 8.745e-14, 5.433e-14,  57351.8008,  57352.1016,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 3.627e+17, 1.064e-13, 5.791e-14,  57351.8008,  57352.1016,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 7.253e+17, 1.004e-13, 3.828e-14,  57351.8008,  57352.1016,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 2.418e+23, 3.929e-13, 7.530e-14,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.813e+22, 9.413e-12, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+22, 8.085e-13, 7.490e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+23, 2.757e-13, 1.965e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+23, 3.061e-13, 1.128e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+24, 4.073e-13, 1.203e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+24, 3.091e-13, 1.644e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+25, 2.726e-13, 2.039e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+26, 1.491e-12, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+24, 3.091e-13, 1.644e-13,  55000.0000,  55000.0000,  ,DEBL    ,  EBL-corrected flux 
+ 1.451e+25, 2.740e-13, 2.049e-13,  55000.0000,  55000.0000,  ,DEBL    ,  EBL-corrected flux 
+ 1.400e+09, 1.848e-16, 3.640e-17,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 5.000e+09, 6.300e-16, 1.250e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 9.000e+09, 1.044e-15, 2.070e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.000e+09, 9.600e-16, 1.920e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 

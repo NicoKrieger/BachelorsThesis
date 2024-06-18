@@ -1,0 +1,2 @@
+NuPeak from Blast: 15.0 +/- 0.8
+Wpeak warning: Not enough IR data measurements to provide a Wpeak prediction.

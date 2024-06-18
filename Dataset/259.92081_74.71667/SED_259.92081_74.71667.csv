@@ -1,0 +1,3 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 4.900e-17, 5.600e-18,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 2.418e+17, 2.354e-13, 1.990e-14,  55000.0000,  55000.0000,  ,WGACAT    ,  White et al. 2000  VizieR  IX/31/wgacat 

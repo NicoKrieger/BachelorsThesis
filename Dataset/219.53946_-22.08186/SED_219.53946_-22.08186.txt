@@ -1,0 +1,270 @@
+   1  matched source  219.53946  -22.08186  99  0.000
+ Frequency     nufnu     nufnu unc.  nufnu unc. start time   end time   Flag  Catalog          Reference
+    Hz       erg/cm2/s     upper       lower        MJD         MJD   
+---------------------------------------------------------------------------------------------------------------------------
+ 1.400E+09   1.078E-14   1.116E-14   1.040E-14  55000.0000  55000.0000   Det  NVSS             Condon et al. 1998, AJ, 115, 1693                                                                                                                                                                       
+ 8.870E+08   6.769E-15   7.247E-15   6.291E-15  55000.0000  55000.0000   Det  RACS             Hale et al. 2021, PASA, 38, e058                                                                                                                                                                        
+ 8.870E+08   6.769E-15   7.247E-15   6.291E-15  55000.0000  55000.0000   Det  RACS             Hale et al. 2021, PASA, 38, e058                                                                                                                                                                        
+ 3.000E+09   2.122E-14   2.133E-14   2.110E-14  55000.0000  55000.0000   Det  VLASSQL          Gordon et al. 2021, ApJS, 255, 30                                                                                                                                                                       
+ 3.000E+09   2.414E-14   2.424E-14   2.403E-14  55000.0000  55000.0000   Det  VLASSQL          Gordon et al. 2021, ApJS, 255, 30                                                                                                                                                                       
+ 2.418E+17   1.567E-13   1.926E-13   1.208E-13  56174.1992  56351.0000   Det  1OUSX            Giommi et al. in preparation                                                                                                                                                                            
+ 1.209E+17   9.954E-14   1.302E-13   6.884E-14  56174.1992  56351.0000   Det  1OUSX            Giommi et al. in preparation                                                                                                                                                                            
+ 3.627E+17   2.139E-13   2.550E-13   1.727E-13  56174.1992  56351.0000   Det  1OUSX            Giommi et al. in preparation                                                                                                                                                                            
+ 7.253E+17   2.002E-13   2.275E-13   1.729E-13  56174.1992  56351.0000   Det  1OUSX            Giommi et al. in preparation                                                                                                                                                                            
+ 1.088E+18   2.267E-13   2.841E-13   1.693E-13  56174.1992  56351.0000   Det  1OUSX            Giommi et al. in preparation                                                                                                                                                                            
+ 7.253E+17   2.049E-13   2.355E-13   1.744E-13  55000.0000  55000.0000   Det  2SXPS            Evans et al. 2020, ApJS, 247, 54                                                                                                                                                                        
+ 1.209E+17   1.285E-13   1.672E-13   8.982E-14  55000.0000  55000.0000   Det  2SXPS            Evans et al. 2020, ApJS, 247, 54                                                                                                                                                                        
+ 3.627E+17   1.786E-13   2.206E-13   1.366E-13  55000.0000  55000.0000   Det  2SXPS            Evans et al. 2020, ApJS, 247, 54                                                                                                                                                                        
+ 1.088E+18   2.896E-13   3.600E-13   2.193E-13  55000.0000  55000.0000   Det  2SXPS            Evans et al. 2020, ApJS, 247, 54                                                                                                                                                                        
+ 1.500E+08   9.404E-16   1.035E-15   8.462E-16  55000.0000  55000.0000   Det  TGSS150          Intema et al. 2017, A&A, 598, A781                                                                                                                                                                      
+ 5.000E+09   3.415E-14   3.585E-14   3.245E-14  55000.0000  55000.0000   Det  AT20G            Murphy et al. 2010, MNRAS, 402, 2403                                                                                                                                                                    
+ 8.000E+09   7.056E-14   7.408E-14   6.704E-14  55000.0000  55000.0000   Det  AT20G            Murphy et al. 2010, MNRAS, 402, 2403                                                                                                                                                                    
+ 2.000E+10   2.124E-13   2.230E-13   2.018E-13  55000.0000  55000.0000   Det  AT20G            Murphy et al. 2010, MNRAS, 402, 2403                                                                                                                                                                    
+ 8.400E+09   6.973E-14   0.000E+00   0.000E+00  55000.0000  55000.0000   Det  CRATES           Healey et al. 2007, ApJS, 171, 61                                                                                                                                                                       
+ 4.800E+09   3.254E-14   3.432E-14   3.077E-14  55000.0000  55000.0000   Det  PMN              Griffith et al. 1993-1996, VizieR, VIII/38                                                                                                                                                              
+ 1.035E+11   5.071E-13   5.174E-13   4.968E-13  56669.0000  56669.0000   Det  ALMA             Bonato et al. 2019, MNRAS, 485, 1188                                                                                                                                                                    
+ 9.146E+10   4.573E-13   4.664E-13   4.482E-13  56669.0000  56669.0000   Det  ALMA             Bonato et al. 2019, MNRAS, 485, 1188                                                                                                                                                                    
+ 1.000E+11   3.411E-13   4.064E-13   2.759E-13  55000.0000  55000.0000   Det  PCCS2100 GHz  The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 1.430E+11   5.332E-13   5.994E-13   4.671E-13  55000.0000  55000.0000   Det  PCCS2143 GHz  The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 2.170E+11   7.061E-13   7.908E-13   6.215E-13  55000.0000  55000.0000   Det  PCCS2217 GHz  The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 7.000E+10   4.000E-13   4.921E-13   3.078E-13  55000.0000  55000.0000   Det  PCCS2 70 GHz  The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 3.000E+10   1.792E-13   1.990E-13   1.594E-13  55000.0000  55000.0000   Det  PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 4.400E+10   2.950E-13   3.420E-13   2.481E-13  55000.0000  55000.0000   Det  PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 7.000E+10   3.290E-13   3.798E-13   2.782E-13  55000.0000  55000.0000   Det  PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 1.000E+11   4.582E-13   4.959E-13   4.205E-13  55000.0000  55000.0000   Det  PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 1.430E+11   6.133E-13   6.710E-13   5.556E-13  55000.0000  55000.0000   Det  PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 2.170E+11   7.082E-13   8.017E-13   6.147E-13  55000.0000  55000.0000   Det  PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 3.530E+11   0.000E+00   7.663E-13   0.000E+00  55000.0000  55000.0000   UL   PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 5.450E+11   0.000E+00   2.245E-12   0.000E+00  55000.0000  55000.0000   UL   PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 8.570E+11   0.000E+00   7.232E-12   0.000E+00  55000.0000  55000.0000   UL   PCNT             The Planck Collaboration 2018, A&A, 619, A94                                                                                                                                                            
+ 8.817E+13   3.941E-13   3.970E-13   3.912E-13  55000.0000  55000.0000   Det  UNWISE           Schlafly et al. 2019, ApJS, 240, 30                                                                                                                                                                     
+ 6.517E+13   4.615E-13   4.661E-13   4.571E-13  55000.0000  55000.0000   Det  UNWISE           Schlafly et al. 2019, ApJS, 240, 30                                                                                                                                                                     
+ 4.455E+14   7.698E-13   0.000E+00   0.000E+00  55000.0000  55000.0000   Det  GAIA             The Gaia Collaboration 2016, A&A, 595, A2                                                                                                                                                               
+ 8.328E+14   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   HSTGSC           Lasker et al. 2008, AJ, 136, 735                                                                                                                                                                        
+ 6.813E+14   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   HSTGSC           Lasker et al. 2008, AJ, 136, 735                                                                                                                                                                        
+ 5.451E+14   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   HSTGSC           Lasker et al. 2008, AJ, 136, 735                                                                                                                                                                        
+ 4.684E+14   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   HSTGSC           Lasker et al. 2008, AJ, 136, 735                                                                                                                                                                        
+ 3.795E+14   0.000E+00   0.000E+00   0.000E+00  55000.0000  55000.0000   UL   HSTGSC           Lasker et al. 2008, AJ, 136, 735                                                                                                                                                                        
+ 6.233E+14   8.117E-13   8.314E-13   7.925E-13  55000.0000  55000.0000   Det  PanSTARRS        Flewelling et al. 2020, ApJS, 251, 7                                                                                                                                                                    
+ 4.859E+14   9.203E-13   9.290E-13   9.116E-13  55000.0000  55000.0000   Det  PanSTARRS        Flewelling et al. 2020, ApJS, 251, 7                                                                                                                                                                    
+ 3.987E+14   7.920E-13   8.099E-13   7.745E-13  55000.0000  55000.0000   Det  PanSTARRS        Flewelling et al. 2020, ApJS, 251, 7                                                                                                                                                                    
+ 3.462E+14   5.902E-13   5.976E-13   5.829E-13  55000.0000  55000.0000   Det  PanSTARRS        Flewelling et al. 2020, ApJS, 251, 7                                                                                                                                                                    
+ 3.116E+14   5.334E-13   5.513E-13   5.160E-13  55000.0000  55000.0000   Det  PanSTARRS        Flewelling et al. 2020, ApJS, 251, 7                                                                                                                                                                    
+ 1.948E+15   3.953E-13   5.950E-13   2.626E-13  55000.0000  55000.0000   Det  GALEX            Morrissey et al. 2007, ApJS, 173, 682                                                                                                                                                                   
+ 1.295E+15   7.806E-13   9.395E-13   6.485E-13  55000.0000  55000.0000   Det  GALEX            Morrissey et al. 2007, ApJS, 173, 682                                                                                                                                                                   
+ 2.418E+17   1.215E-13   1.755E-13   6.741E-14  56174.1992  56174.6992   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 1.209E+17   0.000E+00   2.872E-13   0.000E+00  56174.1992  56174.6992   UL   OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 3.627E+17   1.265E-13   1.828E-13   7.020E-14  56174.1992  56174.6992   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 7.253E+17   1.058E-13   1.418E-13   6.978E-14  56174.1992  56174.6992   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 1.088E+18   0.000E+00   0.000E+00   0.000E+00  56174.1992  56174.6992   UL   OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 2.418E+17   1.782E-13   2.261E-13   1.303E-13  56350.1992  56351.0000   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 1.209E+17   1.152E-13   1.551E-13   7.529E-14  56350.1992  56351.0000   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 3.627E+17   2.412E-13   2.970E-13   1.854E-13  56350.1992  56351.0000   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 7.253E+17   2.508E-13   2.895E-13   2.121E-13  56350.1992  56351.0000   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 1.088E+18   3.247E-13   4.109E-13   2.385E-13  56350.1992  56351.0000   Det  OUSXB            Giommi et al. 2019, A&A, 631, A116                                                                                                                                                                      
+ 2.418E+23   3.658E-13   4.520E-13   2.797E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.813E+22   2.417E-12   5.144E-12   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+22   7.052E-13   1.201E-12   2.109E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+23   5.660E-13   7.240E-13   4.120E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+23   2.566E-13   3.455E-13   1.741E-13  55000.0000  55000.0000   Det  4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+24   5.842E-14   2.241E-13   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.835E+24   3.102E-14   3.339E-13   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+25   5.470E-16   6.858E-13   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 1.451E+26   4.856E-19   7.992E-13   0.000E+00  55000.0000  55000.0000   UL   4FGL-DR3         The Fermi-LAT Collaboration 2022, arXiv:2201.11184                                                                                                                                                      
+ 4.850E+09   3.089E-14   3.720E-14   2.459E-14  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.700E+09   2.133E-14   2.565E-14   1.701E-14  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 3.650E+08   2.493E-15   3.004E-15   1.982E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 3.250E+08   2.151E-15   2.574E-15   1.729E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.400E+09   1.078E-14   1.288E-14   8.680E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.500E+08   1.175E-15   1.415E-15   9.345E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.307E+09   1.352E-14   1.629E-14   1.075E-14  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.000E+08   1.398E-15   1.678E-15   1.118E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+09   6.216E-14   7.476E-14   4.956E-14  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.200E+10   1.430E-13   1.804E-13   1.056E-13  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 7.400E+07   6.734E-16   8.066E-16   5.402E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+09   6.972E-14   8.400E-14   5.544E-14  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+09   6.300E-14   7.560E-14   5.040E-14  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+07   7.927E-16   8.600E-16   7.254E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 9.200E+07   8.351E-16   8.922E-16   7.779E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 9.900E+07   7.989E-16   8.572E-16   7.407E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.070E+08   9.404E-16   9.851E-16   8.958E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.150E+08   9.443E-16   9.863E-16   9.024E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.220E+08   9.760E-16   1.015E-15   9.374E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.300E+08   1.016E-15   1.056E-15   9.751E-16  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.430E+08   1.120E-15   1.153E-15   1.087E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.510E+08   1.134E-15   1.165E-15   1.104E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.580E+08   1.168E-15   1.198E-15   1.139E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.660E+08   1.277E-15   1.308E-15   1.246E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.740E+08   1.308E-15   1.346E-15   1.270E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.810E+08   1.367E-15   1.402E-15   1.331E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.890E+08   1.328E-15   1.361E-15   1.295E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 1.970E+08   1.461E-15   1.493E-15   1.429E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.040E+08   1.426E-15   1.459E-15   1.393E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.120E+08   1.451E-15   1.482E-15   1.419E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.200E+08   1.452E-15   1.484E-15   1.420E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 2.270E+08   1.431E-15   1.465E-15   1.397E-15  55000.0000  55000.0000   Det  GLEAMV2         Hurley-Walker N. et al., 2017, MNRAS, 464, 1146.
+ 4.732E+10   3.085E-13   3.122E-13   3.048E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 4.732E+10   2.948E-13   2.980E-13   2.916E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 4.732E+10   3.076E-13   3.114E-13   3.037E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 4.732E+10   3.398E-13   3.428E-13   3.367E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 4.732E+10   3.071E-13   3.088E-13   3.055E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 4.732E+10   3.024E-13   3.052E-13   2.995E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 4.732E+10   3.204E-13   3.220E-13   3.187E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.244E+10   3.519E-13   3.561E-13   3.477E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.244E+10   3.361E-13   3.398E-13   3.325E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.244E+10   3.519E-13   3.562E-13   3.475E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.244E+10   3.886E-13   3.921E-13   3.851E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.244E+10   3.466E-13   3.485E-13   3.447E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.244E+10   3.445E-13   3.478E-13   3.413E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.244E+10   3.634E-13   3.653E-13   3.615E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.756E+10   3.995E-13   4.042E-13   3.947E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.756E+10   3.862E-13   3.904E-13   3.820E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.756E+10   3.960E-13   4.010E-13   3.911E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.756E+10   4.438E-13   4.478E-13   4.398E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.756E+10   3.897E-13   3.918E-13   3.876E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.756E+10   3.874E-13   3.910E-13   3.838E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.756E+10   4.098E-13   4.120E-13   4.077E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 6.268E+10   4.469E-13   4.522E-13   4.416E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 6.268E+10   4.337E-13   4.384E-13   4.290E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 6.268E+10   4.431E-13   4.487E-13   4.376E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 6.268E+10   4.977E-13   5.022E-13   4.932E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 6.268E+10   4.312E-13   4.336E-13   4.289E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 6.268E+10   4.306E-13   4.347E-13   4.265E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 6.268E+10   4.538E-13   4.561E-13   4.515E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.232E+10   6.512E-13   6.590E-13   6.433E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.232E+10   6.520E-13   6.591E-13   6.449E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.232E+10   6.487E-13   6.570E-13   6.404E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.232E+10   7.055E-13   7.119E-13   6.991E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.232E+10   6.199E-13   6.257E-13   6.140E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.232E+10   6.446E-13   6.479E-13   6.413E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.744E+10   7.030E-13   7.114E-13   6.946E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.744E+10   7.065E-13   7.141E-13   6.989E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.744E+10   7.021E-13   7.109E-13   6.934E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.744E+10   7.502E-13   7.571E-13   7.434E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.744E+10   6.680E-13   6.743E-13   6.617E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 8.744E+10   6.951E-13   6.987E-13   6.916E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.256E+10   7.608E-13   7.699E-13   7.518E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.256E+10   7.636E-13   7.719E-13   7.554E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.256E+10   7.571E-13   7.666E-13   7.477E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.256E+10   8.118E-13   8.192E-13   8.043E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.256E+10   7.201E-13   7.269E-13   7.134E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.768E+10   8.107E-13   8.204E-13   8.011E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.768E+10   8.127E-13   8.215E-13   8.039E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.768E+10   8.127E-13   8.231E-13   8.023E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.768E+10   8.635E-13   8.713E-13   8.557E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.768E+10   7.639E-13   7.711E-13   7.566E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.768E+10   7.775E-13   7.815E-13   7.735E-13  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.461E-12   1.479E-12   1.444E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.572E-12   1.589E-12   1.554E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.620E-12   1.640E-12   1.599E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.475E-12   1.489E-12   1.462E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.361E-12   1.369E-12   1.354E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.341E-12   1.353E-12   1.328E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.349E-12   1.355E-12   1.343E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.723E+11   1.377E-12   1.384E-12   1.370E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.499E-12   1.517E-12   1.481E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.627E-12   1.645E-12   1.610E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.675E-12   1.696E-12   1.654E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.514E-12   1.527E-12   1.500E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.398E-12   1.406E-12   1.391E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.393E-12   1.406E-12   1.380E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.380E-12   1.387E-12   1.374E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.774E+11   1.412E-12   1.420E-12   1.405E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.543E-12   1.561E-12   1.524E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.678E-12   1.696E-12   1.660E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.732E-12   1.754E-12   1.711E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.550E-12   1.564E-12   1.536E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.437E-12   1.445E-12   1.429E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.431E-12   1.445E-12   1.418E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.418E-12   1.425E-12   1.412E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.826E+11   1.448E-12   1.455E-12   1.440E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.577E-12   1.595E-12   1.558E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.727E-12   1.745E-12   1.708E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.800E-12   1.823E-12   1.777E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.582E-12   1.597E-12   1.568E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.473E-12   1.481E-12   1.465E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.473E-12   1.487E-12   1.459E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.449E-12   1.456E-12   1.442E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.877E+11   1.481E-12   1.488E-12   1.473E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.323E+11   1.917E-12   1.940E-12   1.893E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.323E+11   2.209E-12   2.234E-12   2.184E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.323E+11   1.861E-12   1.878E-12   1.844E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.323E+11   1.766E-12   1.775E-12   1.756E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.323E+11   1.838E-12   1.855E-12   1.820E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.323E+11   1.759E-12   1.767E-12   1.751E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.323E+11   1.738E-12   1.747E-12   1.729E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.675E-12   2.707E-12   2.643E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   3.055E-12   3.089E-12   3.021E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.590E-12   2.614E-12   2.566E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.485E-12   2.499E-12   2.472E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.597E-12   2.621E-12   2.572E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.472E-12   2.484E-12   2.461E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.433E-12   2.445E-12   2.420E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.426E+11   1.938E-12   1.962E-12   1.914E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.426E+11   2.343E-12   2.370E-12   2.317E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.426E+11   1.931E-12   1.948E-12   1.913E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.426E+11   1.839E-12   1.849E-12   1.829E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.426E+11   1.899E-12   1.917E-12   1.881E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.426E+11   1.824E-12   1.833E-12   1.816E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.426E+11   1.785E-12   1.794E-12   1.776E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.477E+11   1.962E-12   1.986E-12   1.937E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.477E+11   2.331E-12   2.357E-12   2.304E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.477E+11   1.954E-12   1.973E-12   1.936E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.477E+11   1.863E-12   1.874E-12   1.851E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.477E+11   1.924E-12   1.943E-12   1.906E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.477E+11   1.853E-12   1.862E-12   1.843E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.477E+11   1.808E-12   1.819E-12   1.797E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.223E+11   2.401E-12   2.424E-12   2.378E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.223E+11   2.375E-12   2.388E-12   2.363E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.223E+11   2.424E-12   2.436E-12   2.412E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.223E+11   2.421E-12   2.442E-12   2.399E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.223E+11   2.250E-12   2.260E-12   2.240E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.223E+11   2.124E-12   2.134E-12   2.114E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.407E-12   2.430E-12   2.384E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.390E-12   2.403E-12   2.378E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.449E-12   2.461E-12   2.437E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.443E-12   2.465E-12   2.421E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.282E-12   2.292E-12   2.272E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.274E+11   2.155E-12   2.165E-12   2.144E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.326E+11   2.444E-12   2.468E-12   2.421E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.326E+11   2.421E-12   2.433E-12   2.409E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.326E+11   2.504E-12   2.517E-12   2.492E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.326E+11   2.488E-12   2.509E-12   2.466E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.326E+11   2.301E-12   2.311E-12   2.291E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.326E+11   2.192E-12   2.202E-12   2.181E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.337E+11   2.443E-12   2.466E-12   2.419E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.337E+11   2.433E-12   2.445E-12   2.420E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.337E+11   2.519E-12   2.532E-12   2.507E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.337E+11   2.499E-12   2.521E-12   2.477E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.337E+11   2.309E-12   2.319E-12   2.299E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.337E+11   2.192E-12   2.203E-12   2.182E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.823E+11   2.669E-12   2.695E-12   2.642E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.823E+11   2.726E-12   2.739E-12   2.713E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.823E+11   2.913E-12   2.927E-12   2.899E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.823E+11   2.833E-12   2.857E-12   2.809E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.823E+11   2.584E-12   2.595E-12   2.574E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.823E+11   2.416E-12   2.428E-12   2.405E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.874E+11   2.704E-12   2.733E-12   2.676E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.874E+11   2.762E-12   2.776E-12   2.749E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.874E+11   2.956E-12   2.971E-12   2.942E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.874E+11   2.879E-12   2.903E-12   2.854E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.874E+11   2.615E-12   2.626E-12   2.604E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.874E+11   2.437E-12   2.448E-12   2.426E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.926E+11   2.744E-12   2.771E-12   2.717E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.926E+11   2.787E-12   2.801E-12   2.773E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.926E+11   2.983E-12   2.998E-12   2.969E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.926E+11   2.901E-12   2.926E-12   2.876E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.926E+11   2.638E-12   2.649E-12   2.627E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.926E+11   2.457E-12   2.469E-12   2.446E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.977E+11   2.744E-12   2.773E-12   2.715E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.977E+11   2.808E-12   2.823E-12   2.792E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.977E+11   3.002E-12   3.019E-12   2.986E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.977E+11   2.923E-12   2.949E-12   2.897E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.977E+11   2.684E-12   2.697E-12   2.671E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.977E+11   2.478E-12   2.492E-12   2.463E-12  55000.0000  55000.0000   Det  PACO         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 5.520E+09   3.792E-14   3.969E-14   3.616E-14  55000.0000  55000.0000   Det  PACOPCCS         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 9.000E+09   7.335E-14   7.634E-14   7.036E-14  55000.0000  55000.0000   Det  PACOPCCS         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 1.800E+10   1.507E-13   1.625E-13   1.389E-13  55000.0000  55000.0000   Det  PACOPCCS         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 2.400E+10   1.913E-13   2.083E-13   1.743E-13  55000.0000  55000.0000   Det  PACOPCCS         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.300E+10   2.376E-13   2.497E-13   2.255E-13  55000.0000  55000.0000   Det  PACOPCCS         Massardi M. et. al., 2016, MNRAS, 455, 3249
+ 3.900E+10   2.738E-13   2.923E-13   2.553E-13  55000.0000  55000.0000   Det  PACOPCCS         Massardi M. et. al., 2016, MNRAS, 455, 3249

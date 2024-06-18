@@ -1,0 +1,7 @@
+NuPeak from Blast: 13.8 +/- 1.0
+Wpeak warning: Low flux variability and large IR spectral slope. That is likely because the IR flux is dominated by the host galaxy or IR torus. Only use the Wpeak prediction if the SED does not show any of these features.
+Source contamination for Wpeak: Possible confusing source at distance of 2 arcseconds, vmag=100.0
+Flux ratio from variability in IR: 1.4
+Used slope for Wpeak predictions: 0.75
+NuPeak from Wpeak: 16.5 +/- 0.4
+NuFnuPeak from Wpeak: -11.87 Expected range: from -11.95 to -11.80

@@ -1,0 +1,3 @@
+NuPeak from Blast: 15.6 +/- 0.4
+Wpeak warning: Flux too close to background. 
+Flux ratio from variability in IR: 1.6

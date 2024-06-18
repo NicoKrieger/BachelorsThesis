@@ -1,0 +1,3 @@
+NuPeak from Blast: nan (+/-nan)
+Wpeak warning: Not enough flux variability. 
+Flux ratio from variability in IR: 1.1

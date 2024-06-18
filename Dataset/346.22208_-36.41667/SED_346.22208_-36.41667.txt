@@ -1,0 +1,14 @@
+   1  matched source  346.22208  -36.41667  99  *****
+ Frequency     nufnu     nufnu unc.  nufnu unc. start time   end time   Flag  Catalog          Reference
+    Hz       erg/cm2/s     upper       lower        MJD         MJD   
+---------------------------------------------------------------------------------------------------------------------------
+ 2.418E+17   1.118E-13   1.248E-13   9.877E-14  55000.0000  55000.0000   Det  WGACAT           White et al. 2000, VizieR, IX/31/wgacat                                                                                                                                                                 
+ 1.500E+08   6.973E-16   7.671E-16   6.276E-16  55000.0000  55000.0000   Det  TGSS150          Intema et al. 2017, A&A, 598, A781                                                                                                                                                                      
+ 2.307E+09   4.752E-15   5.698E-15   3.807E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.700E+09   7.020E-15   8.424E-15   5.616E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.820E+08   1.263E-15   1.518E-15   1.008E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.000E+08   1.196E-15   1.436E-15   9.560E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+09   1.310E-14   1.571E-14   1.050E-14  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.400E+09   3.570E-15   4.284E-15   2.856E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.430E+08   2.596E-15   3.119E-15   2.074E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.500E+08   1.002E-15   1.197E-15   8.070E-16  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17

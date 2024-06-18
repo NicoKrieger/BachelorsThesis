@@ -1,0 +1,6 @@
+NuPeak from Blast: 15.2 +/- 0.3
+Source contamination for Wpeak: There are no confusing sources at this position. The closest object is located at 19 arcseconds
+Flux ratio from variability in IR: 2.5
+Used slope for Wpeak predictions: 0.48
+NuPeak from Wpeak: 15.5 +/- 0.4
+NuFnuPeak from Wpeak: -11.16 Expected range: from -11.37 to -10.96

@@ -1,0 +1,3 @@
+NuPeak from Blast: 14.0 +/- 0.9
+Wpeak warning: Not enough flux variability. 
+Flux ratio from variability in IR: 1.1

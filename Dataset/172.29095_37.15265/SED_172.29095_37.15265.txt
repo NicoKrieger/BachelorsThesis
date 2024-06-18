@@ -1,0 +1,18 @@
+   1  matched source  172.29095   37.15265  99  0.000
+ Frequency     nufnu     nufnu unc.  nufnu unc. start time   end time   Flag  Catalog          Reference
+    Hz       erg/cm2/s     upper       lower        MJD         MJD   
+---------------------------------------------------------------------------------------------------------------------------
+ 1.400E+09   2.197E-15   2.268E-15   2.125E-15  55000.0000  55000.0000   Det  NVSS             Condon et al. 1998, AJ, 115, 1693                                                                                                                                                                       
+ 4.800E+09   1.536E-15   1.728E-15   1.344E-15  55000.0000  55000.0000   Det  GB6              Gregory et al. 1996, ApJS, 103, 427                                                                                                                                                                     
+ 4.800E+09   1.584E-15   1.920E-15   1.248E-15  55000.0000  55000.0000   Det  GB87             Gregory et al. 1992, VizieR, VIII/14/j2000                                                                                                                                                              
+ 4.850E+09   1.722E-15   2.066E-15   1.377E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.850E+09   2.338E-15   2.803E-15   1.872E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.080E+08   2.273E-15   2.721E-15   1.824E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 3.650E+08   2.405E-15   2.880E-15   1.931E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 3.250E+08   2.226E-15   2.681E-15   1.771E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.400E+09   2.198E-15   2.632E-15   1.764E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.080E+08   2.203E-15   2.652E-15   1.754E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 2.320E+08   1.438E-15   1.717E-15   1.160E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.510E+08   2.114E-15   2.537E-15   1.691E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 1.510E+08   2.144E-15   2.567E-15   1.721E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 7.400E+07   1.458E-15   1.746E-15   1.169E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17

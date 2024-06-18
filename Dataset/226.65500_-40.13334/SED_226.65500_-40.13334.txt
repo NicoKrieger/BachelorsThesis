@@ -1,0 +1,15 @@
+   1  matched source  226.65500  -40.13334  99  0.000
+ Frequency     nufnu     nufnu unc.  nufnu unc. start time   end time   Flag  Catalog          Reference
+    Hz       erg/cm2/s     upper       lower        MJD         MJD   
+---------------------------------------------------------------------------------------------------------------------------
+ 1.400E+09   1.235E-15   1.280E-15   1.190E-15  55000.0000  55000.0000   Det  NVSS             Condon et al. 1998, AJ, 115, 1693                                                                                                                                                                       
+ 8.870E+08   1.302E-15   1.399E-15   1.205E-15  55000.0000  55000.0000   Det  RACS             Hale et al. 2021, PASA, 38, e058                                                                                                                                                                        
+ 8.870E+08   1.302E-15   1.399E-15   1.205E-15  55000.0000  55000.0000   Det  RACS             Hale et al. 2021, PASA, 38, e058                                                                                                                                                                        
+ 8.430E+08   1.264E-15   1.302E-15   1.225E-15  55000.0000  55000.0000   Det  SUMSS            Manch et al. 2003, MNRAS, 342, 1117                                                                                                                                                                     
+ 2.418E+17   2.154E-13   2.432E-13   1.876E-13  55000.0000  55000.0000   Det  WGACAT           White et al. 2000, VizieR, IX/31/wgacat                                                                                                                                                                 
+ 1.500E+08   5.411E-16   5.961E-16   4.860E-16  55000.0000  55000.0000   Det  TGSS150          Intema et al. 2017, A&A, 598, A781                                                                                                                                                                      
+ 4.800E+09   2.016E-15   2.352E-15   1.680E-15  55000.0000  55000.0000   Det  ATPMN            McConnell et al. 2012, MNRAS, 422, 1527                                                                                                                                                                 
+ 8.600E+09   3.612E-15   4.472E-15   2.752E-15  55000.0000  55000.0000   Det  ATPMN            McConnell et al. 2012, MNRAS, 422, 1527                                                                                                                                                                 
+ 8.430E+08   1.265E-15   1.517E-15   1.012E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 4.800E+09   2.016E-15   2.419E-15   1.613E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17
+ 8.400E+09   3.528E-15   4.368E-15   2.688E-15  55000.0000  55000.0000   Det  SPECFINDV3         Stein et al., 2021, A&A, 655, A17

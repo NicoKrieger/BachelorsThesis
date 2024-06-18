@@ -1,0 +1,7 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 1.834e-15, 5.600e-17,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 3.000e+09, 1.214e-14, 4.500e-17,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 3.000e+09, 1.193e-14, 6.500e-17,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 8.400e+09, 4.599e-14, 0.000e+00,  55000.0000,  55000.0000,  ,CRATES    ,  Healey et al. 2007  ApJS  171  61 
+ 3.000e+10, 1.178e-13, 2.686e-14,  55000.0000,  55000.0000,  ,PCCS2    ,  30 GHz The Planck Collaboration 2018  A&A  619  A94 
+ 6.233e+14, 3.078e-12, 1.650e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 

@@ -1,0 +1,4 @@
+NuPeak from Blast: 13.5 +/- 1.0
+Wpeak warning: Flux too close to background. 
+Source contamination for Wpeak: Possible confusing source at distance of 6 arcseconds, vmag=100.0
+Flux ratio from variability in IR: 1.8

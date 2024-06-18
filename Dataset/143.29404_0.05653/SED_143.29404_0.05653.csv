@@ -1,0 +1,24 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 3.080e-17, 1.900e-18,  55000.0000,  55000.0000,  ,FIRST    ,  White et al. 1997  ApJ  475 479 
+ 1.400e+09, 4.060e-17, 5.600e-18,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 8.870e+08, 3.105e-17, 7.985e-18,  55000.0000,  55000.0000,  ,RACS    ,  Hale et al. 2021  PASA  38  e058 
+ 3.000e+09, 6.612e-17, 7.740e-18,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 2.418e+17, 4.873e-13, 1.216e-13,  55000.0000,  55000.0000,  ,RASS    ,  Boller et al. 2016  A&A  103  1 
+ 2.418e+17, 7.333e-14, 6.300e-15,  55000.0000,  55000.0000,  ,eROSITA-EDR    ,  Brunner et al.  2022  A&A  661  A1 
+ 7.253e+16, 5.350e-14, 1.246e-14,  55000.0000,  55000.0000,  ,eROSITA-EDR    ,  Brunner et al.  2022  A&A  661  A1 
+ 1.692e+17, 7.578e-14, 9.595e-15,  55000.0000,  55000.0000,  ,eROSITA-EDR    ,  Brunner et al.  2022  A&A  661  A1 
+ 3.627e+17, 6.833e-14, 1.013e-14,  55000.0000,  55000.0000,  ,eROSITA-EDR    ,  Brunner et al.  2022  A&A  661  A1 
+ 7.253e+17, 1.039e-13, 3.445e-14,  55000.0000,  55000.0000,  ,eROSITA-EDR    ,  Brunner et al.  2022  A&A  661  A1 
+ 2.901e+17, 7.492e-14, 7.130e-15,  55000.0000,  55000.0000,  ,eROSITA-EDR    ,  Brunner et al.  2022  A&A  661  A1 
+ 9.671e+17, 1.184e-13, 5.387e-14,  55000.0000,  55000.0000,  ,eROSITA-EDR    ,  Brunner et al.  2022  A&A  661  A1 
+ 1.692e+18, 1.538e-12, 0.000e+00,  55000.0000,  55000.0000,UL,eROSITA-EDR     ,  Brunner et al.  2022  A&A  661  A1 
+ 8.817e+13, 1.555e-13, 2.500e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 6.517e+13, 7.593e-14, 3.440e-15,  55000.0000,  55000.0000,  ,UNWISE    ,  Schlafly et al. 2019  ApJS  240  30 
+ 3.987e+14, 1.098e-13, 4.800e-15,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.462e+14, 1.360e-13, 1.055e-14,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 3.116e+14, 1.544e-13, 1.450e-15,  55000.0000,  55000.0000,  ,PanSTARRS    ,  Flewelling et al. 2020  ApJS  251  7 
+ 8.402e+14, 7.969e-14, 8.825e-15,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 6.443e+14, 7.490e-14, 4.140e-15,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 4.876e+14, 7.102e-14, 3.730e-15,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 4.014e+14, 1.261e-13, 4.400e-15,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 
+ 3.382e+14, 1.143e-13, 1.310e-14,  55000.0000,  55000.0000,  ,SDSS    ,  Abolfathi et al. 2018  ApJS  235  42 

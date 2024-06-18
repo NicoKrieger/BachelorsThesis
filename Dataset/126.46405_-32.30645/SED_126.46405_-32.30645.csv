@@ -1,0 +1,51 @@
+freq. ,flux ,err_flux ,MJD_start ,MJD_end ,flag,catalog,reference
+ 1.400e+09, 5.501e-15, 1.655e-16,  55000.0000,  55000.0000,  ,NVSS    ,  Condon et al. 1998  AJ  115  1693 
+ 3.000e+09, 1.045e-14, 5.500e-17,  55000.0000,  55000.0000,  ,VLASSQL    ,  Gordon et al. 2021  ApJS  255  30 
+ 2.418e+17, 1.859e-13, 9.601e-14,  57724.0000,  57839.6016,  ,1OUSX    ,  Giommi et al. in preparation 
+ 3.627e+17, 1.936e-13, 1.000e-13,  57724.0000,  57839.6016,  ,1OUSX    ,  Giommi et al. in preparation 
+ 7.253e+17, 1.366e-13, 6.128e-14,  57724.0000,  57839.6016,  ,1OUSX    ,  Giommi et al. in preparation 
+ 1.088e+18, 7.849e-13, 0.000e+00,  57724.0000,  57839.6016,UL,1OUSX     ,  Giommi et al. in preparation 
+ 7.253e+17, 1.565e-13, 7.121e-14,  55000.0000,  55000.0000,  ,2SXPS    ,  Evans et al. 2020  ApJS  247  54 
+ 1.209e+17, 5.640e-13, 0.000e+00,  55000.0000,  55000.0000,UL,2SXPS     ,  Evans et al. 2020  ApJS  247  54 
+ 3.627e+17, 1.618e-13, 9.765e-14,  55000.0000,  55000.0000,  ,2SXPS    ,  Evans et al. 2020  ApJS  247  54 
+ 1.088e+18, 2.132e-13, 1.322e-13,  55000.0000,  55000.0000,  ,2SXPS    ,  Evans et al. 2020  ApJS  247  54 
+ 1.500e+08, 1.384e-16, 1.545e-17,  55000.0000,  55000.0000,  ,TGSS150    ,  Intema et al. 2017  A&A  598  A781 
+ 5.000e+09, 1.595e-14, 8.000e-16,  55000.0000,  55000.0000,  ,AT20G    ,  Murphy et al. 2010  MNRAS  402  2403 
+ 8.000e+09, 3.304e-14, 1.680e-15,  55000.0000,  55000.0000,  ,AT20G    ,  Murphy et al. 2010  MNRAS  402  2403 
+ 2.000e+10, 9.820e-14, 4.600e-15,  55000.0000,  55000.0000,  ,AT20G    ,  Murphy et al. 2010  MNRAS  402  2403 
+ 1.035e+11, 2.898e-13, 3.105e-14,  56652.0000,  56652.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 9.146e+10, 2.835e-13, 1.830e-14,  56652.0000,  56652.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 2.850e+11, 4.018e-13, 2.850e-14,  57183.0000,  57183.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 9.506e+10, 2.918e-13, 2.855e-14,  57183.0000,  57183.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 1.035e+11, 6.355e-13, 3.210e-14,  58224.0000,  58224.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 9.150e+10, 5.947e-13, 3.015e-14,  58224.0000,  58224.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 3.435e+11, 7.557e-13, 3.780e-14,  58225.0000,  58225.0000,  ,ALMA    ,  Bonato et al. 2019  MNRAS  485  1188 
+ 1.000e+11, 3.196e-13, 5.105e-14,  55000.0000,  55000.0000,  ,PCCS2100    ,  GHz The Planck Collaboration 2018  A&A  619  A94 
+ 3.000e+10, 1.696e-13, 4.350e-15,  55000.0000,  55000.0000,  ,PCCS2    ,  30 GHz The Planck Collaboration 2018  A&A  619  A94 
+ 4.400e+10, 2.639e-13, 6.045e-14,  55000.0000,  55000.0000,  ,PCCS2    ,  44 GHz The Planck Collaboration 2018  A&A  619  A94 
+ 3.000e+10, 1.058e-13, 0.000e+00,  55000.0000,  55000.0000,UL,PCNT     ,  The Planck Collaboration 2018  A&A  619  A94 
+ 4.400e+10, 1.454e-13, 0.000e+00,  55000.0000,  55000.0000,UL,PCNT     ,  The Planck Collaboration 2018  A&A  619  A94 
+ 7.000e+10, 2.318e-13, 4.800e-14,  55000.0000,  55000.0000,  ,PCNT    ,  The Planck Collaboration 2018  A&A  619  A94 
+ 1.000e+11, 3.987e-13, 4.165e-14,  55000.0000,  55000.0000,  ,PCNT    ,  The Planck Collaboration 2018  A&A  619  A94 
+ 1.430e+11, 4.242e-13, 5.960e-14,  55000.0000,  55000.0000,  ,PCNT    ,  The Planck Collaboration 2018  A&A  619  A94 
+ 2.170e+11, 5.814e-13, 1.813e-13,  55000.0000,  55000.0000,  ,PCNT    ,  The Planck Collaboration 2018  A&A  619  A94 
+ 3.530e+11, 1.405e-12, 0.000e+00,  55000.0000,  55000.0000,UL,PCNT     ,  The Planck Collaboration 2018  A&A  619  A94 
+ 5.450e+11, 6.555e-12, 0.000e+00,  55000.0000,  55000.0000,UL,PCNT     ,  The Planck Collaboration 2018  A&A  619  A94 
+ 8.570e+11, 2.799e-11, 0.000e+00,  55000.0000,  55000.0000,UL,PCNT     ,  The Planck Collaboration 2018  A&A  619  A94 
+ 2.418e+17, 2.162e-13, 1.290e-13,  57839.6016,  57839.6016,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 1.209e+17, 2.261e-12, 0.000e+00,  57839.6016,  57839.6016,UL,OUSXB     ,  Giommi et al. 2019  A&A  631  A116 
+ 3.627e+17, 2.251e-13, 1.343e-13,  57839.6016,  57839.6016,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 7.253e+17, 1.791e-13, 8.578e-14,  57839.6016,  57839.6016,  ,OUSXB    ,  Giommi et al. 2019  A&A  631  A116 
+ 2.418e+23, 1.881e-12, 1.630e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.813e+22, 3.339e-12, 3.083e-12,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+22, 3.227e-12, 6.070e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+23, 2.817e-12, 2.530e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+23, 1.162e-12, 1.520e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+24, 4.894e-13, 1.180e-13,  55000.0000,  55000.0000,  ,4FGL-DR3    ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 4.835e+24, 2.832e-13, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+25, 6.737e-13, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 1.451e+26, 9.471e-13, 0.000e+00,  55000.0000,  55000.0000,UL,4FGL-DR3     ,  The Fermi-LAT Collaboration 2022  arXiv:2201.11184 
+ 2.700e+09, 1.431e-14, 2.970e-15,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 2.200e+10, 7.700e-14, 1.540e-14,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 1.400e+09, 5.502e-15, 1.106e-15,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
+ 8.430e+08, 3.220e-15, 6.405e-16,  55000.0000,  55000.0000,  ,SPECFINDV3    ,  Stein et al.  2021  A&A  655  A17 
