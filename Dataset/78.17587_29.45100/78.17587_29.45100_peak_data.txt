@@ -1,0 +1,6 @@
+NuPeak from Blast: 14.6 +/- 1.1
+Source contamination for Wpeak: Possible confusing source at distance of 3 arcseconds, vmag=16.4
+Flux ratio from variability in IR: 6.5
+Used slope for Wpeak predictions: 0.14
+NuPeak from Wpeak: 14.1 +/- 0.4
+NuFnuPeak from Wpeak: -11.68 Expected range: from -11.94 to -11.13
